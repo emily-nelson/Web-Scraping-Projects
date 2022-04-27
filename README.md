@@ -1,4 +1,4 @@
-# mapIt
+Web Scraping Projects
 
 From Automate the Boring Stuff with Python by AL Sweigart
 
